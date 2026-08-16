@@ -1,0 +1,17 @@
+# Editor and OS noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+
+# Local scratch work that is not part of the record
+scratch/
+drafts/
+*.local.md
+
+# Rendered exports — the Markdown source is the source of truth
+*.pdf
+*.docx
+*.html
