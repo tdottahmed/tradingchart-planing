@@ -20,7 +20,7 @@ relative to the root of that application repository, not this one.
 
 | Document | What it covers | Status |
 |---|---|---|
-| [Student Experience — Analysis & Enhancement Plan](STUDENT_UX_ENHANCEMENT_PLAN.md) | Where the batch-student experience stands today, the gaps in it, and a four-phase plan to close them. Includes flowcharts and ERDs written for non-technical readers. | Proposal — awaiting review |
+| [Student Experience — Analysis & Enhancement Plan](STUDENT_UX_ENHANCEMENT_PLAN.md) | Where the batch-student experience stands on the **website** today, the gaps in it, and a four-phase plan to close them. Includes flowcharts and ERDs written for non-technical readers. The mobile app is out of scope. | Proposal — awaiting review |
 
 ## Conventions
 
