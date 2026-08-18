@@ -26,6 +26,7 @@ relative to the root of that application repository, not this one.
 | [P1-C — The Welcome Checklist](P1C_WELCOME_CHECKLIST_PLAN.md) | The build plan for the Phase 1 item that fills the silence between "payment succeeded" and "first class". Depends on nothing else, but carries an operations prerequisite that is a launch blocker. | Build plan — awaiting a decision on §3 |
 | [P1-D — Data Integrity: One Seat, One Batch](P1D_DATA_INTEGRITY_PLAN.md) | Planned as invisible clean-up; the code review found a live defect underneath it — a student buying a second batch of a course they already hold is charged and receives no seat. Contains a hotfix to ship ahead of the phase. | Build plan — **§2.1 needs a decision this week** |
 | [P2-A — The My Batch Page](P2A_MY_BATCH_PAGE_PLAN.md) | The build plan for the largest item in the parent plan: one page that means "my batch". Its central decision is architectural — a batch class list already exists, and the plan is built around reusing it rather than drawing a second one. | Build plan — awaiting a decision on §3 |
+| [P3-B — The Notification Centre and the Support Inbox](P3B_NOTIFICATION_CENTRE_PLAN.md) | The build plan for the in-app notification centre, and for the support experience it feeds. The code review found the realtime half already built and working — and two live defects underneath it, both of which it recommends hotfixing ahead of the phase. | Build plan — **§3 questions 1 and 5 need a decision** |
 
 ## Conventions
 
