@@ -28,6 +28,7 @@ relative to the root of that application repository, not this one.
 | [P2-A — The My Batch Page](P2A_MY_BATCH_PAGE_PLAN.md) | The build plan for the largest item in the parent plan: one page that means "my batch". Its central decision is architectural — a batch class list already exists, and the plan is built around reusing it rather than drawing a second one. | Build plan — awaiting a decision on §3 |
 | [P3-B — The Notification Centre and the Support Inbox](P3B_NOTIFICATION_CENTRE_PLAN.md) | The build plan for the in-app notification centre, and for the support experience it feeds. The code review found the realtime half already built and working — and two live defects underneath it, both of which it recommends hotfixing ahead of the phase. | Build plan — **§3 questions 1 and 5 need a decision** |
 | [M1 — The Mobile API (`/api/v1`)](M1_MOBILE_API_V1_PLAN.md) | The first mobile document: the backend the new student app needs. About 80% of it does not exist yet. Recommends native browsing with the website's own player and classroom inside the app, and records a live rate-limit gap to hotfix first. | Build plan — **§2.2 hotfix this week; §3 q1–2 need a decision** |
+| [M2 — The Mobile App, Page by Page](M2_MOBILE_APP_PAGES_PLAN.md) | Every app screen, the website page it mirrors, and the endpoint behind it. Built on one rule: the app shows the website's content through shared code, so an admin edit lands in both. | Build plan — **§3 q1 (what Enroll does) needs a decision** |
 
 ## Conventions
 
